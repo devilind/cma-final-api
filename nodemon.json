@@ -1,0 +1,5 @@
+{
+    "env":{
+        "mongodb_url": "mongodb+srv://devilind:cmaproject@cma.ie7s9.mongodb.net/ERPSystem?retryWrites=true&w=majority"
+    }
+}
